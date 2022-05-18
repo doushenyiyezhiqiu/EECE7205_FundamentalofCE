@@ -1,0 +1,4 @@
+﻿  源.cpp
+d:\neu课程文件\研一上\计算机工程原理 eece7205 fundamental of computer engineering\project1\源.cpp(44): warning C4715: “max_inarray”: 不是所有的控件路径都返回值
+d:\neu课程文件\研一上\计算机工程原理 eece7205 fundamental of computer engineering\project1\源.cpp(18): warning C4715: “sumup”: 不是所有的控件路径都返回值
+  7205project1.vcxproj -> D:\NEU课程文件\研一上\计算机工程原理 EECE7205 Fundamental of Computer Engineering\Project1\x64\Debug\7205project1.exe
